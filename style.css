@@ -1,0 +1,56 @@
+
+body #listaban
+{
+    text-decoration: none;
+    color: white;
+} #homepage {
+    background-color: #47584b;
+}#bannedpage {
+    background-color: rgb(187, 89, 89);
+}#formularioregistro {
+    background-color: #23cda8;
+    color: white;
+}#headerform {
+    background-color: #8F78C6;
+    color: rgb(0, 0, 0);
+}#formedit {
+    background-color: #20be9c;
+    color: white;
+}#headeredit {
+    background-color: #705E9C;
+    color: rgb(0, 0, 0);
+}#login{
+    background-color: #332B47;
+}#card {
+    border-color: black;
+    border-style: double;
+}#navbarhome {
+    background-color: #474a61;
+    font-family: cursive;
+    color: white;
+}#pregunta{
+    size: 50px;
+}#crear-blog{
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 20px;
+    border-color: black;
+    border-style:groove;
+    color: white;
+    font-size: 19px;
+    background-color: #474a61;
+    border-radius: 70px 30px;
+    
+}#crear-blog h4{
+    font-size: 25px;
+}#contenedor {
+    display:flex;
+    
+    margin-bottom: 20px;
+    gap: 10px;
+
+}#enlace{
+    color: black;
+}
